@@ -5,6 +5,10 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 }
 
+.dark-mode .bol {
+    left: 5%;
+}
+
 .dark-mode header {
     background-image: 
     linear-gradient(to bottom, rgba(29, 0, 255, 0.9), rgba(0, 118, 255, 0.7)),
